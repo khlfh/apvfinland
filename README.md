@@ -1,2 +1,2 @@
 # apvfinland
-Ini adalah project kelompok saya pada matakuliah Aktuaria yakni menghitung Actuarial Present Value dengan usia dan benefit tertentu untuk negara Finlandia.
+This is my team project in class Actuarial Mathematics, we calculate actuarial present value using R for certain age in Finlandia.
